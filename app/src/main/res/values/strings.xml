@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Explore Pasuruan</string>
+    <string name="wisata_nama">Nama Wisata\t\t:</string>
+    <string name="selengkapnya">Selengkapnya</string>
+    <string name="share">Share</string>
+    <string name="name_profil">Mochammad Syaifuddin Zuhri</string>
+    <string name="akun_profil">syaifuddin.design@gmail.com</string>
+    <string name="judul">EXPLORE</string>
+    <string name="wisata_deskripsi">Deskripsi\t\t\t\t\t:</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="judul2">PASURUAN</string>
+</resources>
